@@ -1,0 +1,9 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_server":"mysql://root:@localhost/thevision",
+        "prod_server":"mysql://root:@localhost/thevision",
+        "no_of_posts":2
+    }
+}
